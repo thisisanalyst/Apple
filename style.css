@@ -33,6 +33,11 @@ html,body{
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+#banner-one{
+    width: 100%;
+    height: 88%;
+}
+
 #cover1{
     position: absolute;
     width: 100%;
@@ -48,9 +53,8 @@ html,body{
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: rgb(0, 0, 0);
-    justify-content: center;
-    align-items: center;
 }
+
 #cover1 #container2{
     position: relative;
     width: 35%;
@@ -64,7 +68,6 @@ html,body{
 }
 
 #cover1 h4{
-    margin-top: 5px;
     text-align: center;
     font-size: 38px;
     font-weight: 600;
@@ -72,7 +75,6 @@ html,body{
 }
 
 #cover1 h5{
-    margin-top: 2px;
     text-align: center;
     font-size: 14px;
     font-weight: 700;
@@ -89,6 +91,182 @@ html,body{
 
 #cover1 .sm1{
     font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: #2895FB;
+}
+
+#banner-two{
+    width: 100%;
+    height: 88%;
+}
+
+#cover2{
+    position: absolute;
+    width: 100%;
+    height: 88%;
+    background-color: #F7F7F7;
+}
+
+#cover2 #container3{
+    position: relative;
+    width: 35%;
+    height: 22%;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#cover2 #container4{
+    position: relative;
+    width: 70%;
+    height: 65%;
+    top: 39%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: url(./cover2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#cover2 h4{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+}
+
+#cover2 .sm{
+    font-size: 27px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#cover2 .sm1{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: #2895FB;
+}
+
+#banner-three{
+    width: 100%;
+    height: 85%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#cover3{
+    width: 48.5%;
+    height: 96%;
+}
+
+#cover3 #inner1{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(250, 250, 250);
+}
+
+#cover3 #container5{
+    width: 100%;
+    height: 25%;
+    padding-top: 12px;
+    text-align: center;
+}
+
+#cover3 #container6{
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 62%;
+    height: 74%;
+    background-image: url(./cover3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#cover3 h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+
+#cover3 h5{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #D01F2A;
+}
+
+#cover3 .sm{
+    margin-top: 4px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#cover3 .sm1{
+    margin-top: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    color: #2895FB;
+}
+
+#cover4{
+    width: 48.5%;
+    height: 96%;
+}
+
+#cover4 #inner2{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(250, 250, 250);
+}
+
+#cover4 #inner2 #container7{
+    width: 100%;
+    height: 25%;
+    padding-top: 12px;
+}
+
+#cover4 #inner2 #container8{
+    position: relative;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 62%;
+    height: 74%;
+    background-image: url(./Container2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#cover4 h4{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+
+#cover4 .sm{
+    margin-top: 4px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#cover4 .sm1{
+    margin-top: 10px;
+    font-size: 12px;
     font-weight: 500;
     text-align: center;
     color: #2895FB;
