@@ -62,7 +62,7 @@ html,body{
     top: 39%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-image: url(./cover1.jpg);
+    background-image: url(./Cover1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -123,7 +123,7 @@ html,body{
     top: 39%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-image: url(./cover2.jpg);
+    background-image: url(./Cover2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -183,7 +183,7 @@ html,body{
     transform: translate(-50%, -50%);
     width: 62%;
     height: 74%;
-    background-image: url(./cover3.jpg);
+    background-image: url(./Cover3.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -244,7 +244,7 @@ html,body{
     transform: translate(-50%, -50%);
     width: 62%;
     height: 74%;
-    background-image: url(./Container2.jpg);
+    background-image: url(./Cover4.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -270,4 +270,290 @@ html,body{
     font-weight: 500;
     text-align: center;
     color: #2895FB;
+}
+
+#banner-four{
+    width: 100%;
+    height: 85%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#cover5{
+    width: 48.5%;
+    height: 96%;
+}
+
+#cover5 #inner3{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(250, 250, 250);
+}
+
+#cover5 #container9{
+    width: 100%;
+    height: 25%;
+    padding-top: 12px;
+    text-align: center;
+}
+
+#cover5 #container10{
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 62%;
+    height: 74%;
+    background-image: url(./Cover5.jpg);
+    background-size: cover;
+    background-position: center ;
+}
+
+#cover5 h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+
+#cover5 h5{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #D01F2A;
+}
+
+#cover5 .sm{
+    margin-top: 4px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#cover5 .sm1{
+    margin-top: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    color: #2895FB;
+}
+
+#cover6{
+    width: 48.5%;
+    height: 96%;
+}
+
+#cover6 #inner4{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(250, 250, 250);
+}
+
+#cover6 #inner4 #container11{
+    width: 100%;
+    height: 25%;
+    padding-top: 12px;
+}
+
+#cover6 #inner4 #container12{
+    position: relative;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 62%;
+    height: 74%;
+    background-image: url(./Cover6.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#cover6 h4{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+
+#cover6 .sm{
+    margin-top: 4px;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#cover6 .sm1{
+    margin-top: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    color: #2895FB;
+}
+
+#banner-five{
+    width: 100%;
+    height: 85%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#cover7{
+    width: 48.5%;
+    height: 96%;
+}
+
+#cover7 #inner5{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(250, 250, 250);
+}
+
+#cover7 #container13{
+    width: 100%;
+    height: 25%;
+    padding-top: 12px;
+    text-align: center;
+}
+
+#cover7 #container14{
+    position: absolute;
+    top: 62%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 62%;
+    height: 74%;
+    background-image: url(./Cover7.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#cover7 #container14 #overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.411);
+}
+
+#cover7 h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+
+#cover7 h5{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #D01F2A;
+}
+
+#cover7 .sm{
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#cover7 .sm1{
+    margin-top: 2px;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    color: #2895FB;
+}
+
+#cover8{
+    width: 48.5%;
+    height: 96%;
+}
+
+#cover8 #inner6{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(250, 250, 250);
+}
+
+#cover8 #inner6 #container15{
+    width: 100%;
+    height: 25%;
+    padding-top: 12px;
+}
+
+#cover8 #inner6 #container16{
+    position: relative;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 62%;
+    height: 74%;
+    background-image: url(./Cover8.png);
+    background-size: cover;
+    background-position: center;
+}
+
+#cover8 h4{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+}
+
+#cover8 .sm{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#cover8 .sm1{
+    margin-top: 2px;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    color: #2895FB;
+}
+
+#footer{
+    width: 100%;
+    height: 30%;
+    background-color: rgb(201, 200, 200);
+    
+}
+
+#footer p{
+    padding-top: 15px;
+    padding-left: 165px;
+    padding-right: 155px;
+    font-weight: 200;
+    font-size: 14px;
+}
+
+#footer .ppp{
+    padding-top: 55px;
+    padding-left: 165px;
+    padding-right: 155px;
+}
+
+#footer #infoot{
+    padding-top: 25px;
+    padding-left: 130px;
+    padding-right: 130px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#footer #infoot a{
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
 }
