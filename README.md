@@ -1,6 +1,6 @@
 # Apple
 
-This repository contains some-what copy of Apple's Official Website!
+This repository contains some-what copy of Apple's Official Website.
 
 Designed on HTML & CSS.
 
